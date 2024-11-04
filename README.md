@@ -1,2 +1,2 @@
-Hello world
 # intro-to-git
+Hello World
